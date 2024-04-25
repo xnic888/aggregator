@@ -39,12 +39,11 @@ jobs:
       run: |
         git config --global user.email "tianshideyou@proton.me"
         git config --global user.name "tianshipapa"
-        cd aggregate
         if [ -n "$(git status --porcelain)" ]; then
-          git add proxies.yaml
-          git add subscribes.txt
-          git add domains.txt
-          git add valid-domains.txt
+          git add /home/runner/work/aggregator/aggregator/aggregate/data/proxies.yaml
+          git add /home/runner/work/aggregator/aggregator/aggregate/data/subscribes.txt
+          git add /home/runner/work/aggregator/aggregator/aggregate/data/domains.txt
+          git add /home/runner/work/aggregator/aggregator/aggregate/data/valid-domains.txt
           git commit -m "Automatic update"
           git push
         else
