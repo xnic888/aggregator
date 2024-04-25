@@ -35,12 +35,18 @@ jobs:
         cd aggregate
         python -u subscribe/collect.py -s
       
-    - name: Create/Update Gist
-      env:
-        GH_TOKEN: ${{ secrets.PAT}}
+    - name: Commit and push changes
       run: |
+        git config --global user.email "tianshideyou@proton.me"
+        git config --global user.name "tianshipapa"
         cd aggregate
-        gh gist edit ${{ secrets.GIST_ID }} --add "proxies.yaml"
-        gh gist edit ${{ secrets.GIST_ID }} --add "subscribes.txt"
-        gh gist edit ${{ secrets.GIST_ID }} --add "domains.txt"
-        gh gist edit ${{ secrets.GIST_ID }} --add "valid-domains.txt"
+        if [ -n "$(git status --porcelain)" ]; then
+          git add proxies.yaml
+          git add subscribes.txt
+          git add domains.txt
+          git add valid-domains.txt
+          git commit -m "Automatic update"
+          git push
+        else
+          echo "No changes detected, skipping commit."
+        fi
