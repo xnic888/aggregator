@@ -1,6 +1,6 @@
 proxies:
 - name: 韩国-三网优化2
-  password: 5009ccfc-1d9c-442d-a4ea-19028bcaead2
+  password: 1fc964d4-20ba-423f-8073-d3cc267cca3d
   port: 44732
   server: kr-qingyun.dwyun.me
   skip-cert-verify: true
@@ -9,245 +9,245 @@ proxies:
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 香港中转 01
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 43641
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 香港中转 02
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 36858
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 香港中转 03
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 14407
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 香港中转 04
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 11618
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 香港中转 05
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 20901
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 台湾中转 01
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 27110
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 台湾中转 02
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 17010
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 台湾中转 03
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 14232
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 台湾中转 04
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 25149
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 台湾中转 05
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 35846
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 日本中转 01
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 13706
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 日本中转 02
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 57661
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 日本中转 03
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 38225
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 日本中转 04
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 38649
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 日本中转 05
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 21743
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 新加坡中转 01
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 21667
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 新加坡中转 02
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 44776
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 新加坡中转 03
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 11599
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 美国中转 01
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 26858
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 美国中转 02
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 15070
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 美国中转 03
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 23631
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 英国中转 01
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 29172
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 英国中转 02
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 34013
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 英国中转 03
-  password: b6322285-a057-4242-85e4-c2bf4b4de521
+  password: 875ea7c5-c744-422e-9dfa-a7b89ff20dd0
   port: 13708
   server: gstdnb.myfczy168.top
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 台湾 1
-  password: bb64c136-8cf3-4fb3-891e-0bf0830ae9d8
+  password: 974c26c7-81de-4523-b61b-47563214a4dc
   port: 20032
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 台湾01
-  password: bb64c136-8cf3-4fb3-891e-0bf0830ae9d8
+  password: 974c26c7-81de-4523-b61b-47563214a4dc
   port: 47564
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 香港01
-  password: bb64c136-8cf3-4fb3-891e-0bf0830ae9d8
+  password: 974c26c7-81de-4523-b61b-47563214a4dc
   port: 34338
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 香港02
-  password: bb64c136-8cf3-4fb3-891e-0bf0830ae9d8
+  password: 974c26c7-81de-4523-b61b-47563214a4dc
   port: 20035
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 香港03
-  password: bb64c136-8cf3-4fb3-891e-0bf0830ae9d8
+  password: 974c26c7-81de-4523-b61b-47563214a4dc
   port: 20052
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 日本01
-  password: bb64c136-8cf3-4fb3-891e-0bf0830ae9d8
+  password: 974c26c7-81de-4523-b61b-47563214a4dc
   port: 20002
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 日本02
-  password: bb64c136-8cf3-4fb3-891e-0bf0830ae9d8
+  password: 974c26c7-81de-4523-b61b-47563214a4dc
   port: 20004
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 日本03
-  password: bb64c136-8cf3-4fb3-891e-0bf0830ae9d8
+  password: 974c26c7-81de-4523-b61b-47563214a4dc
   port: 20006
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 日本04
-  password: bb64c136-8cf3-4fb3-891e-0bf0830ae9d8
+  password: 974c26c7-81de-4523-b61b-47563214a4dc
   port: 20008
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 美国 纽约01
-  password: bb64c136-8cf3-4fb3-891e-0bf0830ae9d8
+  password: 974c26c7-81de-4523-b61b-47563214a4dc
   port: 20013
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 美国 纽约2
-  password: bb64c136-8cf3-4fb3-891e-0bf0830ae9d8
+  password: 974c26c7-81de-4523-b61b-47563214a4dc
   port: 20016
   server: gy.666666222.shop
   type: ss
@@ -261,7 +261,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 台湾2
@@ -271,7 +271,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 香港NO.1
@@ -281,7 +281,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 香港NO.2
@@ -291,7 +291,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 美国NO.1
@@ -301,7 +301,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 美国NO.2
@@ -311,7 +311,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 印度尼西亚1
@@ -321,7 +321,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 印度尼西亚2
@@ -331,7 +331,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 澳门NO.2
@@ -341,7 +341,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 新加坡NO.1
@@ -351,7 +351,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 新加坡NO.2
@@ -361,7 +361,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 日本NO.1
@@ -371,7 +371,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 日本NO.2
@@ -381,7 +381,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 澳大利亚原生1
@@ -391,7 +391,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 澳大利亚原生2
@@ -401,7 +401,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 加拿大1
@@ -411,7 +411,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 加拿大2
@@ -421,7 +421,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 印度1
@@ -431,7 +431,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 印度2
@@ -441,7 +441,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 法国1
@@ -451,7 +451,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 法国2
@@ -461,7 +461,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 香港
@@ -471,7 +471,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - alterId: 0
   cipher: auto
   name: 香港
@@ -481,9 +481,9 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b4308f14-854d-43b4-9863-94305f79c906
+  uuid: 2b0969a4-dbd3-4d05-b6df-5d917c28cac8
 - name: 香港02
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50002
   server: 587848.laomao-53875.xyz
   skip-cert-verify: true
@@ -491,7 +491,7 @@ proxies:
   type: trojan
   udp: true
 - name: 香港03
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50003
   server: 587458.laomao-53875.xyz
   skip-cert-verify: true
@@ -499,7 +499,7 @@ proxies:
   type: trojan
   udp: true
 - name: 香港04
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50004
   server: 785148.laomao-53875.xyz
   skip-cert-verify: true
@@ -507,7 +507,7 @@ proxies:
   type: trojan
   udp: true
 - name: 香港05
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50005
   server: 587878.laomao-53875.xyz
   skip-cert-verify: true
@@ -515,7 +515,7 @@ proxies:
   type: trojan
   udp: true
 - name: 香港06
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50006
   server: 54847.laomao-53875.xyz
   skip-cert-verify: true
@@ -523,7 +523,7 @@ proxies:
   type: trojan
   udp: true
 - name: 香港07
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50007
   server: 587845.laomao-53875.xyz
   skip-cert-verify: true
@@ -531,7 +531,7 @@ proxies:
   type: trojan
   udp: true
 - name: 香港08
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50008
   server: 845748.laomao-53875.xyz
   skip-cert-verify: true
@@ -539,7 +539,7 @@ proxies:
   type: trojan
   udp: true
 - name: 香港09
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50009
   server: 878451.laomao-53875.xyz
   skip-cert-verify: true
@@ -547,7 +547,7 @@ proxies:
   type: trojan
   udp: true
 - name: 香港10
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50010
   server: 574878.laomao-53875.xyz
   skip-cert-verify: true
@@ -555,7 +555,7 @@ proxies:
   type: trojan
   udp: true
 - name: 香港11
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50011
   server: 582548.laomao-53875.xyz
   skip-cert-verify: true
@@ -563,7 +563,7 @@ proxies:
   type: trojan
   udp: true
 - name: 香港12
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50012
   server: 8747878.laomao-53875.xyz
   skip-cert-verify: true
@@ -571,7 +571,7 @@ proxies:
   type: trojan
   udp: true
 - name: 香港13
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50013
   server: 56178.laomao-53875.xyz
   skip-cert-verify: true
@@ -579,7 +579,7 @@ proxies:
   type: trojan
   udp: true
 - name: 香港14
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50014
   server: 77878.laomao-53875.xyz
   skip-cert-verify: true
@@ -587,7 +587,7 @@ proxies:
   type: trojan
   udp: true
 - name: 香港15
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50015
   server: 874878.laomao-53875.xyz
   skip-cert-verify: true
@@ -595,7 +595,7 @@ proxies:
   type: trojan
   udp: true
 - name: 香港16
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50016
   server: 387878.laomao-53875.xyz
   skip-cert-verify: true
@@ -603,7 +603,7 @@ proxies:
   type: trojan
   udp: true
 - name: 香港17
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50017
   server: 142878.laomao-53875.xyz
   skip-cert-verify: true
@@ -611,7 +611,7 @@ proxies:
   type: trojan
   udp: true
 - name: 香港18
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50018
   server: 69878.laomao-53875.xyz
   skip-cert-verify: true
@@ -619,7 +619,7 @@ proxies:
   type: trojan
   udp: true
 - name: 香港19
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50019
   server: 13178.laomao-53875.xyz
   skip-cert-verify: true
@@ -627,7 +627,7 @@ proxies:
   type: trojan
   udp: true
 - name: 香港20
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50020
   server: 5548.laomao-53875.xyz
   skip-cert-verify: true
@@ -635,7 +635,7 @@ proxies:
   type: trojan
   udp: true
 - name: 日本01
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50101
   server: 548778.laomao-53875.xyz
   skip-cert-verify: true
@@ -643,7 +643,7 @@ proxies:
   type: trojan
   udp: true
 - name: 日本02
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50102
   server: 543428.laomao-53875.xyz
   skip-cert-verify: true
@@ -651,7 +651,7 @@ proxies:
   type: trojan
   udp: true
 - name: 日本03
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50103
   server: 543328.laomao-53875.xyz
   skip-cert-verify: true
@@ -659,7 +659,7 @@ proxies:
   type: trojan
   udp: true
 - name: 日本04
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50104
   server: 34258.laomao-53875.xyz
   skip-cert-verify: true
@@ -667,7 +667,7 @@ proxies:
   type: trojan
   udp: true
 - name: 日本05
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50105
   server: 51548.laomao-53875.xyz
   skip-cert-verify: true
@@ -675,7 +675,7 @@ proxies:
   type: trojan
   udp: true
 - name: 日本06
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50106
   server: 84158.laomao-53875.xyz
   skip-cert-verify: true
@@ -683,7 +683,7 @@ proxies:
   type: trojan
   udp: true
 - name: 日本07
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50107
   server: 457848.laomao-53875.xyz
   skip-cert-verify: true
@@ -691,7 +691,7 @@ proxies:
   type: trojan
   udp: true
 - name: 日本08
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50108
   server: 548718.laomao-53875.xyz
   skip-cert-verify: true
@@ -699,7 +699,7 @@ proxies:
   type: trojan
   udp: true
 - name: 日本09
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50109
   server: 548748.laomao-53875.xyz
   skip-cert-verify: true
@@ -707,7 +707,7 @@ proxies:
   type: trojan
   udp: true
 - name: 日本10
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50110
   server: 541778.laomao-53875.xyz
   skip-cert-verify: true
@@ -715,7 +715,7 @@ proxies:
   type: trojan
   udp: true
 - name: 新加坡01
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50401
   server: 84758.laomao-53875.xyz
   skip-cert-verify: true
@@ -723,7 +723,7 @@ proxies:
   type: trojan
   udp: true
 - name: 新加坡02
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50402
   server: 46358.laomao-53875.xyz
   skip-cert-verify: true
@@ -731,7 +731,7 @@ proxies:
   type: trojan
   udp: true
 - name: 新加坡03
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50403
   server: 16258.laomao-53875.xyz
   skip-cert-verify: true
@@ -739,7 +739,7 @@ proxies:
   type: trojan
   udp: true
 - name: 新加坡04
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50404
   server: 95858.laomao-53875.xyz
   skip-cert-verify: true
@@ -747,7 +747,7 @@ proxies:
   type: trojan
   udp: true
 - name: 新加坡05
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50405
   server: 98758.laomao-53875.xyz
   skip-cert-verify: true
@@ -755,7 +755,7 @@ proxies:
   type: trojan
   udp: true
 - name: 新加坡06
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50406
   server: 98538.laomao-53875.xyz
   skip-cert-verify: true
@@ -763,7 +763,7 @@ proxies:
   type: trojan
   udp: true
 - name: 新加坡07
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50407
   server: 65358.laomao-53875.xyz
   skip-cert-verify: true
@@ -771,7 +771,7 @@ proxies:
   type: trojan
   udp: true
 - name: 新加坡08
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50408
   server: 96358.laomao-53875.xyz
   skip-cert-verify: true
@@ -779,7 +779,7 @@ proxies:
   type: trojan
   udp: true
 - name: 新加坡09
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50409
   server: 98358.laomao-53875.xyz
   skip-cert-verify: true
@@ -787,7 +787,7 @@ proxies:
   type: trojan
   udp: true
 - name: 新加坡10
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50410
   server: 64358.laomao-53875.xyz
   skip-cert-verify: true
@@ -795,7 +795,7 @@ proxies:
   type: trojan
   udp: true
 - name: 台湾01
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50301
   server: 33358.laomao-53875.xyz
   skip-cert-verify: true
@@ -803,7 +803,7 @@ proxies:
   type: trojan
   udp: true
 - name: 台湾02
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50302
   server: 33618.laomao-53875.xyz
   skip-cert-verify: true
@@ -811,7 +811,7 @@ proxies:
   type: trojan
   udp: true
 - name: 台湾03
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50303
   server: 33648.laomao-53875.xyz
   skip-cert-verify: true
@@ -819,7 +819,7 @@ proxies:
   type: trojan
   udp: true
 - name: 台湾04
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50304
   server: 3948.laomao-53875.xyz
   skip-cert-verify: true
@@ -827,7 +827,7 @@ proxies:
   type: trojan
   udp: true
 - name: 台湾05
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50305
   server: 91618.laomao-53875.xyz
   skip-cert-verify: true
@@ -835,7 +835,7 @@ proxies:
   type: trojan
   udp: true
 - name: 台湾06
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50306
   server: 33918.laomao-53875.xyz
   skip-cert-verify: true
@@ -843,7 +843,7 @@ proxies:
   type: trojan
   udp: true
 - name: 台湾07
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50307
   server: 91418.laomao-53875.xyz
   skip-cert-verify: true
@@ -851,7 +851,7 @@ proxies:
   type: trojan
   udp: true
 - name: 台湾08
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50308
   server: 33698.laomao-53875.xyz
   skip-cert-verify: true
@@ -859,7 +859,7 @@ proxies:
   type: trojan
   udp: true
 - name: 台湾09
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50309
   server: 71618.laomao-53875.xyz
   skip-cert-verify: true
@@ -867,7 +867,7 @@ proxies:
   type: trojan
   udp: true
 - name: 台湾10
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50310
   server: 33668.laomao-53875.xyz
   skip-cert-verify: true
@@ -875,7 +875,7 @@ proxies:
   type: trojan
   udp: true
 - name: 美国01
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50201
   server: 95848.laomao-53875.xyz
   skip-cert-verify: true
@@ -883,7 +883,7 @@ proxies:
   type: trojan
   udp: true
 - name: 美国02
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50202
   server: 95348.laomao-53875.xyz
   skip-cert-verify: true
@@ -891,7 +891,7 @@ proxies:
   type: trojan
   udp: true
 - name: 美国03
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50203
   server: 95341.laomao-53875.xyz
   skip-cert-verify: true
@@ -899,7 +899,7 @@ proxies:
   type: trojan
   udp: true
 - name: 美国04
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50204
   server: 95328.laomao-53875.xyz
   skip-cert-verify: true
@@ -907,7 +907,7 @@ proxies:
   type: trojan
   udp: true
 - name: 美国05
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50205
   server: 95858.laomao-53875.xyz
   skip-cert-verify: true
@@ -915,7 +915,7 @@ proxies:
   type: trojan
   udp: true
 - name: 美国06
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50206
   server: 93448.laomao-53875.xyz
   skip-cert-verify: true
@@ -923,7 +923,7 @@ proxies:
   type: trojan
   udp: true
 - name: 美国07
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50207
   server: 95748.laomao-53875.xyz
   skip-cert-verify: true
@@ -931,7 +931,7 @@ proxies:
   type: trojan
   udp: true
 - name: 美国08
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50208
   server: 95148.laomao-53875.xyz
   skip-cert-verify: true
@@ -939,7 +939,7 @@ proxies:
   type: trojan
   udp: true
 - name: 美国09
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50209
   server: 95548.laomao-53875.xyz
   skip-cert-verify: true
@@ -947,7 +947,7 @@ proxies:
   type: trojan
   udp: true
 - name: 美国10
-  password: 223f3fb1-c6b8-40cc-9299-1c84baf6c564
+  password: 28dd6c86-a670-4526-9248-e54a9bc0407b
   port: 50210
   server: 95348.laomao-53875.xyz
   skip-cert-verify: true
