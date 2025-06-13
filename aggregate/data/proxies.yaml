@@ -1,6 +1,6 @@
 proxies:
 - name: 韩国-三网优化2
-  password: 4cf9ddfa-cea6-4889-a756-5d6cb916d5d9
+  password: 1bcadc7d-fffc-458e-8e12-bb0d1ca379a6
   port: 44732
   server: kr-qingyun.dwyun.me
   skip-cert-verify: true
@@ -16,7 +16,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 台湾2
@@ -26,7 +26,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 香港NO.1
@@ -36,7 +36,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 香港NO.2
@@ -46,7 +46,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 美国NO.1
@@ -56,7 +56,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 美国NO.2
@@ -66,7 +66,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 英国1
@@ -76,7 +76,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 英国2
@@ -86,7 +86,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 新加坡NO.1
@@ -96,7 +96,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 新加坡NO.2
@@ -106,7 +106,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 日本NO.1
@@ -116,7 +116,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 日本NO.2
@@ -126,7 +126,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 韩国 专线NO1
@@ -136,7 +136,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 韩国 专线NO2
@@ -146,7 +146,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 马来西亚专线NO1
@@ -156,7 +156,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 马来西亚专线NO2
@@ -166,7 +166,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 泰国NO1
@@ -176,7 +176,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 泰国NO2
@@ -186,7 +186,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 澳大利亚原生1
@@ -196,7 +196,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 澳大利亚原生2
@@ -206,7 +206,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 加拿大1
@@ -216,7 +216,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 加拿大2
@@ -226,7 +226,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 印度1
@@ -236,7 +236,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 印度2
@@ -246,7 +246,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 法国1
@@ -256,7 +256,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 法国2
@@ -266,7 +266,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
 - alterId: 0
   cipher: auto
   name: 香港
@@ -276,4 +276,4 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: fdaa93f1-510e-4ce0-aa33-954e314fc596
+  uuid: 60d9cfc3-1824-443f-bba3-c020d9f33a02
