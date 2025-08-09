@@ -1,3 +1,2 @@
-https://dashuai.us/api/v1/client/subscribe?token=59154c3cfa1fbc3752177e3d3720ed9c
-https://tcity8.top/api/v1/client/subscribe?token=005fdc5863d69455996af5a5311d5a56
-https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=e1bd56ef91d7583b43553d28a3cdc745
+https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=2c30b9e24ec9f5cfcf01b9a94802a932
+https://dashuai.us/api/v1/client/subscribe?token=95dffdcb973af1efdaa3ab75f24657e4
