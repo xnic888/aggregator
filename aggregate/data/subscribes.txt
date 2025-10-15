@@ -1,2 +1,1 @@
-https://dashuai.us/api/v1/client/subscribe?token=fea4ffe88888edc9a81372e37fcebc3e
-https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=1b725d4bd4e90a715a8df1beebd16b89
+https://dashuai.us/api/v1/client/subscribe?token=569a4af461552dd188cf32c4eb726544
